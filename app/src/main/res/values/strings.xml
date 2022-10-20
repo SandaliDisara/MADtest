@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Navigate</string>
+    <string name="txt1">Add Details</string>
+    <string name="btn1">Done</string>
+    <string name="txt2">Add Note</string>
+    <string name="btn2">Done</string>
+    <string name="txt3">Activity 3</string>
+
+
+</resources>
